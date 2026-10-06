@@ -5,11 +5,19 @@ Week 7: Dart Fundamentals – Variables, Data Types, Operators &amp;amp; I/O
 
 ### This is for the one that sells the item, to check if the price is reasonable if the price is over *Php100*
 
+Variable Used:
+# String item = 'skyplakes';
+* for naming the item in a character states or in text
+# int quantity = 10;
+* to detect for whole number
+# double unitPrice = 10.10;
+* to detect for a number with decimal places
+# bool isOver100 = total > 100;
+* checks if the price is over 100: if over 100 *is true*; if less 100 *is false*
 Main Logic:
 # double total = quantity * unitPrice;
 * computes the quantity multiply by unit price
-#  bool isOver100 = total > 100;
-* checks if the price is over 100: if over 100 *is true*; if less 100 *is false*
+
 
 Output:
 
