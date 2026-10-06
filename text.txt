@@ -1,0 +1,3 @@
+Item : skyplakes
+Total: Php101
+Is the Item price reasonable? true
